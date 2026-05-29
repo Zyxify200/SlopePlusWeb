@@ -1,5 +1,5 @@
 {
-  "title": "Slope Plus Unblocked Game Online",
+  "title": "Slope Plus",
   "tagline": "Play Slope Plus unblocked, with no ads.",
   "worksOn": "Works on both desktop and mobile.",
   "supports": "Supports saving your progress (like high-scores, but not replays), setting custom keybinds (left/right/hide game), and freezing on unfocus.",
@@ -29,7 +29,7 @@
       "exportFailed": "Export failed"
     },
     "popup": {
-      "ported": "Slope Plus, ported by lonfro",
+      "ported": "Slope Plus, ported by lonfro, forked by Zyxify200",
       "github": "GitHub Repo",
       "old": "Old Slope Mobile",
       "press": "Press",
